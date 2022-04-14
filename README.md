@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning and finding new oppotunities in web development and sometimes in machine learning.
 - 👯 I’m looking to collaborate on something unique .
 - 💬 Ask me about anything 
-- 📫 How to reach me - Email : rishabhj945@gmail.com LinkedIn : https://www.linkedin.com/in/rishabh-jain-69a1181a8/ Twitter : https://twitter.com/rishabhj0906
+- 📫 How to reach me - Email : rishabhj945@gmail.com LinkedIn : https://www.linkedin.com/in/rishabh-jain-69a1181a8/ 
+- Twitter : https://twitter.com/rishabhj0906
 - Know-about-me - https://know-about-rishabh-f6db2.web.app/
 - ⚡ Fun fact: Always try to find something from nothing
 
