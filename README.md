@@ -7,5 +7,5 @@
 - 💬 Ask me about anything 
 - 📫 How to reach me - Email : rishabhj945@gmail.com / LinkedIn : https://www.linkedin.com/in/rishabh-jain-69a1181a8/
 - Know-about-me - https://know-about-rishabh-f6db2.web.app/
-- ⚡ Fun fact:  Something from nothing
+- ⚡ Fun fact: Always try to find something from nothing
 
