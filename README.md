@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rishabbbbbbh><img src="https://img.shields.io/twitter/follow/rishabbbbbbh?logo=twitter&style=for-the-badge" alt="jalebi" /></a> </p>
 
-- 🔭 I worked as Frontend Developer @ CryptoCapable
+- 🔭 Working as software engineer @Applicate AI
 
 - 🌱 I’m currently learning **everything xD**
 
